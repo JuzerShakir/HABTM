@@ -37,5 +37,5 @@ rails c
 
 -----
 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=juzershakir.has_many&color=000000&lcolor=000000&style=for-the-badge&logo=Github)
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=juzershakir.HABTM&color=000000&lcolor=000000&style=for-the-badge&logo=Github)
 
